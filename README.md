@@ -1,8 +1,8 @@
 ### Goededag 👋
 
 - 🔭 I’m currently working on <a href="https://github.com/Midsty/Tribute-Concert-Discord">Tribute Website</a>
-- 🌱 I’m currently learning <b>SASS</b>
-- 📫 How to reach me: <b>Midsty#4617</b>
+- 🌱 I’m currently learning <b>Javascript</b>
+- 👯 I’m looking to collaborate on <b>React and Web3</b>
 
 <!--
 **Midsty/Midsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
