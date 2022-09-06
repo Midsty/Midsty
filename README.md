@@ -1,4 +1,4 @@
-### Goededag 👋
+### Goedendag 👋
 
 - 🔭 I’m currently working on <a href="https://github.com/Midsty/Tribute-Concert-Discord">Tribute Website</a>
 - 🌱 I’m currently learning <b>Javascript</b>
